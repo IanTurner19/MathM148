@@ -2,7 +2,7 @@ import requests
 from datetime import datetime
 
 api_key = "ljmJ6y8jH7XpdY1iJ68nADTczTfPhVDS"
-GAS_URL = "https://script.google.com/macros/s/AKfycbxFahQydjQv0yGYURjtsRKz5BHd-Z78786YBQgqKu3MXvoAiOpvEEbroW36jPi0Em9K/exec?fileId=1Y7dRCYE2tntng8TKAPwm4uMP_IR0nDm-"
+GAS_URL = "https://script.google.com/macros/s/AKfycbxFahQydjQv0yGYURjtsRKz5BHd-Z78786YBQgqKu3MXvoAiOpvEEbroW36jPi0Em9K/exec?fileId={FILE ID HERE}"
 start_date = datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
 end_date = datetime(year=2025, month=2, day=15).strftime("%Y-%m-%dT%H:%M:%SZ")  # midpoint check in
 
