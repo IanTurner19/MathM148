@@ -1,5 +1,11 @@
 # Ticket Price Prediction
 
+## Update
+
+Google Apps Script cannot update the file if the size is above 50 MB. The limit seems to be 10 MB according to https://developers.google.com/apps-script/reference/drive/file#setcontentcontent but the real limit seems to be 50MB. 
+
+In addition, the Ticketmaster Discovery Feed price column does not update. new_scrape.py uses the Ticketmaster Discovery API instead, which does seem to have price updates. The columns collected are roughly the same, and described in new_data.csv
+
 ## Data Collection
 
 ### Ticketmaster API
