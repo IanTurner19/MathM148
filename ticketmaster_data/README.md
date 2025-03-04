@@ -2,7 +2,7 @@
 
 ## Final Update
 
-Ticketmaster concert ticket prices do not fluctuate much over time (see EDA folder for more information). Instead of repeatedly collecting snapshots, we have modified scrape.py to get data on all concerts happening in winter quarter 2025 once. 
+Ticketmaster concert ticket prices do not fluctuate much over time (see EDA folder for more information). The original issue with the Ticketmaster Discovery Feed not updating was not caused by it being inaccurate, but by the fact that ticket prices do not update frequently on Ticketmaster. Instead of repeatedly collecting snapshots, we have modified scrape.py to get data on all concerts happening in winter quarter 2025 once. 
 
 ## Update
 
