@@ -5,3 +5,6 @@ This notebook uses Linear Regression, Random Forest, and KNN to try and predict 
 
 ## treeffuser.ipynb
 This notebook uses a state-of-the-art diffusion model made for regression, Treeffuser, on our dataset. Link to docs: https://blei-lab.github.io/treeffuser/docs/treeffuser.html . The same features and roughly the same pre-processing as the other models are used here as well. Ultimately, it does not perform as well as the Random Forest Regressor. 
+
+## just_random_forest.ipynb
+This notebook built a random forest regressor to predict min ticket price on data without venue capacity information. 
