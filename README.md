@@ -11,3 +11,5 @@ Some datasets referred to throughout the repository:
 <li> whole_quarter_cities_venues.csv - Ticketmaster, city population, and venue capacity data all joined in one file </li>
 <li> final.csv NEED TO UPDATE - Ticketmaster, city population, venue capacity, artist popularity in one file </li>
 </ul>
+
+Link to these datasets: https://drive.google.com/drive/folders/1dY0SF7AFHTxWT4II82YO1OjgrH5abVTE?usp=sharing
