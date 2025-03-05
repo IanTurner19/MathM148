@@ -9,7 +9,9 @@ Some datasets referred to throughout the repository:
 <li> spotify artists dataset - obtained from Kaggle </li>
 <li> cities dataset - obtained from Kaggle </li>
 <li> whole_quarter_cities_venues.csv - Ticketmaster, city population, and venue capacity data all joined in one file </li>
-<li> final.csv NEED TO UPDATE - Ticketmaster, city population, venue capacity, artist popularity in one file </li>
+<li> output.csv - Data on artists not in the spotify dataset scraped directly from the Spotify API. 
+<li> whole_quarter+cities2.csv - revised version of merged Ticketmaster and city data without any null population values </li>
+<li> final.csv - Ticketmaster, city population, venue capacity, artist popularity in one file </li>
 </ul>
 
 Link to these datasets: https://drive.google.com/drive/folders/1dY0SF7AFHTxWT4II82YO1OjgrH5abVTE?usp=sharing
