@@ -8,3 +8,9 @@ This notebook uses a state-of-the-art diffusion model made for regression, Treef
 
 ## just_random_forest.ipynb
 This notebook built a random forest regressor to predict min ticket price on data without venue capacity information. 
+
+## NeuralNetwork_TicketPrice.ipynb
+This notebook builds a custom Neural Network implemented from scratch to predict ticket price from our data. 
+
+## linreg_slopes
+These are the full results of coefficients of various features from a linear regression model. 
