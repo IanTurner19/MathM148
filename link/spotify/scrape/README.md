@@ -1,6 +1,6 @@
 # Scraping with the Spotify API
 
-There are artists in Ticketmaster that do not show up in the spotify dataset. To obtain their popularity scores, we created a script to obtain this information from the Spotify API. The accuracy of the data is unverified so we might not use this. 
+There are artists in Ticketmaster that do not show up in the spotify dataset. To obtain their popularity scores, we created a script to obtain this information from the Spotify API. 
 
 ## find.ipynb
 This notebook writes all of the artists who show up in Ticketmaster data but not in the spotify dataset to a file called artists.txt.
