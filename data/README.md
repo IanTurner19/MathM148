@@ -18,3 +18,6 @@ This data was generated as a merge between our cities dataset and our ticketmast
 
 # whole_quarter_cities_venues.csv
 This data is the data set above combined with several venue capacities. 
+
+# capacity.csv
+This data contains the capacity of various entertainment venues. 
